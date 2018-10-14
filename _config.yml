@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huichen Dai / Huichen Dai's HomePage"
+title                    : "Dr. Huichen Dai"
 title_separator          : "-"
 name                     : &name "Huichen Dai"
 description              : &description "Senior Engineer at Huawei"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://daihuichen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "daihuichen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ author:
   name             : "Dr. Dai Huichen"
   avatar           : "profile.png"
   bio              : "Senior Engineer at Huawei"
-  location         : "Beijing"
+  location         : "Beijing, China"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : daihuichen@huawei.com
