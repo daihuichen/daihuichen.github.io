@@ -79,13 +79,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr. Dai Huichen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Senior Engineer at Huawei"
+  location         : "Beijing"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  work email            : daihuichen@huawei.com
+  person emial     : dhconly@gmail.com
   uri              :
   bitbucket        :
   codepen          :
