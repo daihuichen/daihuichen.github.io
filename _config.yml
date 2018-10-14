@@ -84,9 +84,8 @@ author:
   bio              : "Senior Engineer at Huawei"
   location         : "Beijing"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  work email            : daihuichen@huawei.com
-  person emial     : dhconly@gmail.com
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : daihuichen@huawei.com
   uri              :
   bitbucket        :
   codepen          :
@@ -94,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "daihuichen"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
