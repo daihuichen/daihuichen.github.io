@@ -49,3 +49,8 @@ author_profile: true
 
 
 - Yi Wang, **Huichen Dai**, Junchen Jiang, Keqiang He, Wei Meng, Bin Liu; Parallel Name Lookup for Named Data Networking, GLOBECOM'11, 5-9 Dec. 2011.
+
+- 黎阳，王哲，张楚文，**戴惠辰**，徐文佺，姬雪枫，万颖，刘斌， 面向车载自组织网络路由的轨迹预测算法. 计算机研究与发展, 2017,	(11): 2421-2434
+
+- **戴惠辰**，黎阳，卢建元，邰冬哲，刘斌，依据被动测量的链路负载均衡，中国科技论文在线精品论文，人民网优秀技术课题研究奖
+
