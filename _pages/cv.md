@@ -11,49 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Department of Computer Science, Tsinghua University, 2016
+* B.S. in Xi'an University of Electronic Science and Technology, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016 - 2018:  Postdoctoral Assistant Researcher 
+  * Tsinghua University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Funding
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* National Science Foundation of China (Youth Fund) (in Chinese: 国家自然科学基金青年基金)
+* China Postdoctoral Foundation, Special Fund (in Chinese: 博士后基金特别资助)
+* China Postdoctoral Foundation, General Fund (in Chinese: 博士后基金面上资助)
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[1]	2016.06 Outstanding Graduate of the Computer Science Department, Tsinghua University
+[2]	2015.05 Nominee Award of “Good Reader” Essay Competition
+[3]	2015.04 INFOCOM’15 Student Travel Grant
+[4]	2014.12 Outstanding Technology Research Award by People's Daily Online
+[5]	2014.11 Second-class Tsinghua University Scholarship
+[6]	2013.12 First-class Tsinghua University Scholarship (HITACHI Chemical Scholarship).
+[7]	2012.10 ANCS’12 Student Travel Grant
+[8]	2011. 11 Second-class Tsinghua University Scholarship (Guanghua Foundation Scholarship)
+[9]	2009.4 Meritorious Winner (first prize) in COMAP's Mathematical Contest in Modeling (MCM)
+[10]	2008.10 First prize of Shaanxi Province division in National Mathematical Modeling Contest
+[11]	2007.10 National Encouragement Scholarship
+[12]	2007.10 First-class university scholarship
+[13]	2007.9 The university Distinguished Student Award
+[14]	2007.5 Second-class university scholarship
+[15]	2007.5 The university Distinguished Student Award
   
-Talks
+Service
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Reviewers for 
+
