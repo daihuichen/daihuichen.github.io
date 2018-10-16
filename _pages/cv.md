@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Department of Computer Science, Tsinghua University, 2016
-* B.S. in Xi'an University of Electronic Science and Technology, 2012
+* Ph.D. in Department of Computer Science, Tsinghua University, 2016.01
+* B.S. in Xi'an University of Electronic Science and Technology, 2010.06
 
 Work experience
 ======
