@@ -1,5 +1,5 @@
 ---
-title: "Presentation for paper "On Pending Interest Table in Named Data Networking" on ANCS'12"
+title: "Presentation for paper \"On Pending Interest Table in Named Data Networking\" on ANCS'12"
 collection: talks
 type: "Talk"
 permalink: /talks/2012-ancs-talk-1
