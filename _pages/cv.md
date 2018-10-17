@@ -50,4 +50,4 @@ Service
   * IEEE Communications Magazine
   * IEEE ICC 2014
   * IFIP NETWORKING 2014
-  *IEEE Communications Letters
+  * IEEE Communications Letters
