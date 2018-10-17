@@ -45,5 +45,9 @@ Awards
   
 Service
 ======
-* Reviewers for 
-
+* Reviewer for 
+  * IEEE/ACM Transactions on Networking
+  * IEEE Communications Magazine
+  * IEEE ICC 2014
+  * IFIP NETWORKING 2014
+  *IEEE Communications Letters
